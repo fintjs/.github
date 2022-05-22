@@ -6,4 +6,4 @@ Our main objective is to deliver social messenger under web3 standards with secu
 
 - Delivering encrypted key biased messages
 - Secure web3 getaway
-- [Future] Contract system
+- **[Future]** Contract system
